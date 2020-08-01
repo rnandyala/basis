@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BasisSample</string>
+   
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reset">reset</string>
+    <string name="you_viewed_all_cards_congratulations">you viewed all cards congratulations</string>
+</resources>
